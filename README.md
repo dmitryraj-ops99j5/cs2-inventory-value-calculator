@@ -7,4 +7,4 @@ I got tired of manually checking skin prices after trades, so I built this. It p
 pip install -r requirements.txt
 
 
-<!-- refreshed: 2026-10-10 -->
+<!-- refreshed: 2026-10-11 -->
